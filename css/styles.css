@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background: url("/assets/snailbg.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: helvetica;
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+}
+p {
+  font-size: 22px;
+}
+input {
+  border: 0
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  color: white;
+  background: green;
+}
