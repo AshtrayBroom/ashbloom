@@ -1,10 +1,12 @@
+body {
+  font-family: helvetica, serif;
+}
 header {
   text-align: center;
   background: url("../assets/snailbg.jpg");
   background-size: cover;
   background-position: center;
   color: white;
-  font-family: helvetica, serif;
 }
 img {
   margin: 40px 0px 0px 0px;
@@ -18,6 +20,7 @@ a {
 }
 h1 {
   font-size: 42px;
+  font-family: 'Oleo Script', cursive;
 }
 p {
   font-size: 22px;
