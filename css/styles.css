@@ -1,4 +1,4 @@
-body {
+header {
   text-align: center;
   background: url("../assets/snailbg.jpg");
   background-size: cover;
@@ -8,18 +8,32 @@ body {
 }
 img {
   margin: 40px 0px 0px 0px;
-  border: 7px solid white;
+  border: 7px solid rgba(14, 40, 48, 0.5);
   border-radius: 20px;
+  mad-width: 120px;
+  mad-height: 120px;
+}
+h1 {
+  font-size: 36px;
 }
 p {
   font-size: 22px;
+}
+ul {
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
 }
 input {
   border: 0
   padding: 10px;
   font-size: 18px;
+  border-radius: 20px;
 }
 input[type="submit"] {
   color: white;
-  background: green;
+  background: rgba(14, 40, 48, 0.5);
 }
