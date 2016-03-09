@@ -20,13 +20,13 @@ a {
 }
 h1 {
   font-size: 42px;
-  font-family: 'Lily Script One', cursive;
+  font-family: 'Lora', serif;
 }
 p {
   font-size: 22px;
   color: rgba(255,255,255,1);
   margin: 22px;
-  font-family: 'Lily Script One', cursive;
+  font-family: 'Lora', serif;
 }
 ul {
   padding: 10px;
