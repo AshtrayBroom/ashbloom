@@ -21,7 +21,11 @@ a {
 }
 h1 {
   font-size: 42px;
+<<<<<<< HEAD
   margin: -5px 0 0 0;
+=======
+  margin: -10px 0 0 0;
+>>>>>>> bfd3d4313399f0b19a237c116600876b32d3cfce
   font-family: 'Lora', serif;
 }
 h2 {
@@ -31,10 +35,6 @@ h2 {
 }
 ul {
   padding: 10px;
-  background: black
-  background: linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,.4));
-  background: -webkit-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,.4));
-  background: -moz-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,.4));
 }
 li {
   display: inline;
