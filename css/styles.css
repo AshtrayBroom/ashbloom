@@ -4,7 +4,7 @@ header {
   background-size: cover;
   background-position: center;
   color: white;
-  font-family: helvetica;
+  font-family: helvetica, serif;
 }
 img {
   margin: 40px 0px 0px 0px;
@@ -13,6 +13,9 @@ img {
   border-radius: 20px;
   max-width: 150px;
   max-height: 150px;
+}
+a {
+  color: white;
 }
 h1 {
   font-size: 36px;
