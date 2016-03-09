@@ -6,7 +6,7 @@ header {
   background: url("../assets/snailbg.jpg");
   background-size: cover;
   background-position: center;
-  color: white;
+  color: rgba(255,255,255,1);
 }
 img {
   margin: 40px 0px 0px 0px;
@@ -16,15 +16,14 @@ img {
   max-height: 150px;
 }
 a {
-  color: rgba(255,255,255,1);
+  text-decoration: none;
 }
 h1 {
   font-size: 42px;
   font-family: 'Lora', serif;
 }
-p {
+h2 {
   font-size: 22px;
-  color: rgba(255,255,255,1);
   margin: 22px;
   font-family: 'Lora', serif;
 }
