@@ -31,11 +31,13 @@ h2 {
   margin: 0 0 36px 0;
   font-family: 'Lora', serif;
   color: #FFEDDF;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.3);
 }
 small {
   font-size: 20px;
   font-family: 'Lora', serif;
   color: #FFEDDF;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.3);
 }
 ul {
   padding: 10px;
