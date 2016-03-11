@@ -31,6 +31,11 @@ h2 {
   font-family: 'Lora', serif;
   color: #FFEDDF;
 }
+small {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  color: #FFEDDF;
+}
 ul {
   padding: 10px;
   background: rgba(0,0,0,0.65);
