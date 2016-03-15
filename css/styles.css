@@ -47,11 +47,14 @@ li {
   display: inline;
   padding: 0px 10px 0px 10px;
 }
-main {
+main first {
   background: #ffc952;
-  color: rgba(14, 40, 48, 1)
-  font-family: helvetica, serif;
-  margin: -15px auto;
+  color: rgba(14, 40, 48, 1);
+  font-family: 'Lora', serif;
+  margin: -16px auto;
+}
+main second {
+  background: #47b8e0;
 }
 @media (max-width: 500px) {
   img {
