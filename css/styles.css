@@ -50,6 +50,7 @@ li {
 main div {
   font-family: helvetica, serif;
   max-width: 500px;
+  position: center;
   padding: 20px;
   margin: 0 auto;
 }
