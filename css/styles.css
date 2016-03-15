@@ -51,6 +51,7 @@ main {
   background: #ff7473;
   background-size: cover;
   font-family: helvetica, serif;
+  padding: 40px 0 300px 0;
   margin: -8px 0 0 0;
 }
 p {
