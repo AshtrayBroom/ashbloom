@@ -8,6 +8,11 @@ header {
   background-size: cover;
   background-position: center;
 }
+div {
+  background: #ff7473;
+  width: 300px;
+  height: 300px;
+}
 img {
   margin: 40px 0px 0px 0px;
   border: 7px solid rgba(14, 40, 48, 0.7);
