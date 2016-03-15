@@ -58,6 +58,7 @@ p {
   padding: 10px;
   text-align: justify;
   line-height: 24px;
+  display: inline;
   position: relative;
   left: 150px;
   border-radius: 10px;
