@@ -19,15 +19,15 @@
       <li><a href="#">CONTACT</a></li>
     </ul>
   </header>
+  <div id="about"></div>
 <script>
-// This section runs JavaScript to import from another .html file
-var link = document.querySelector('link[rel="import"]');
-var content = link.import;
+  var link = document.querySelector('link[rel="import"]');
 
-// Grab DOM from warning.html's document.
-var el = content.querySelector('.about');
+  // Clone the <template> in the import.
+  var template = link.import.querySelector('template');
+  var clone = document.importNode(template.content, true);
 
-document.body.appendChild(el.cloneNode(true));
+  document.querySelector('#about').appendChild(clone);
 
 // function supportsImports() {
 //   return 'import' in document.createElement('link');
