@@ -1,6 +1,7 @@
 body {
   font-family: helvetica, serif;
   margin: 0 auto;
+  max-width: 800px;
 }
 header {
   text-align: center;
@@ -47,14 +48,14 @@ li {
   display: inline;
   padding: 0px 10px 0px 10px;
 }
-main div {
+main {
   font-family: helvetica, serif;
   max-width: 500px;
-  position: relative;
   padding: 20px;
+  margin: 0 auto;
 }
-main div second {
-  background: #47b8e0;
+article {
+
 }
 @media (max-width: 500px) {
   img {
