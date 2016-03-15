@@ -49,9 +49,8 @@ li {
 }
 main {
   font-family: helvetica, serif;
-  color: rgba(255,255,255,1);
   background: #47b8e0;
-  max-width: 500px;
+  color: #282c37;
   padding: 20px;
   margin: 0 auto;
 }
