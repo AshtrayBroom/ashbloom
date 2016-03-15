@@ -12,7 +12,7 @@ main {
   background: #ffc952;
   color: rgba(14, 40, 48, 1)
   font-family: helvetica, serif;
-  margin: -20px auto;
+  margin: -15px auto;
 }
 img {
   margin: 40px 0px 0px 0px;
@@ -64,7 +64,6 @@ li {
     font-size: 16px;
   }
 }
-
 /* WAIT ON LATER TUTORIALS BEFORE IMPLEMENTING THIS SHIZ ON CONTACT PAGE
 input {
   border: 0;
