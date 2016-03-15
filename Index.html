@@ -4,7 +4,6 @@
   <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="./css/styles.css">
   <link rel="shortcut icon" href="./assets/favicon.ico">
-  <link rel="import" href="./about.html"
 </head>
 <body>
   <header>
@@ -13,31 +12,15 @@
     <h2>Thinker, storyteller, programmer-in-training.<br />
       <small>Seeking flow. Being a fool. Getting my kicks.</small>
     </h2>
-    <ul>
+    <nav id="navMenu"></nav>
+    <div><p>I feel welcome here.</p></div>
+    <script src="script.js"></script>
+
+    <!-- <ul>
       <li><a href="#">ABOUT</a></li>
       <li><a href="#">IDEAS</a></li>
       <li><a href="#">CONTACT</a></li>
-    </ul>
+    </ul> -->
   </header>
-  <div id="about"></div>
-<script>
-  var link = document.querySelector('link[rel="import"]');
-
-  // Clone the <template> in the import.
-  var template = link.import.querySelector('template');
-  var clone = document.importNode(template.content, true);
-
-  document.querySelector('#about').appendChild(clone);
-
-// function supportsImports() {
-//   return 'import' in document.createElement('link');
-// }
-//
-// if (supportsImports()) {
-//   // Good to go!
-// } else {
-//   // Use other libraries/require systems to load files.
-// }
-</script>
 </body>
 </html>
