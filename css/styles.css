@@ -50,8 +50,8 @@ li {
 main {
   background: #ff7473;
   font-family: helvetica, serif;
-  padding: 28px;
-  margin: -8px 0 0 0;
+  width: inherit;
+  margin: 0 auto;
 }
 p {
   background: #47b8e0;
