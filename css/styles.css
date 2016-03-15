@@ -60,7 +60,8 @@ p {
   padding: 10px;
   text-align: justify;
   line-height: 24px;
-  position: absolute;
+  position: relative;
+  left: 150px;
   border-radius: 20px;
 }
 @media (max-width: 500px) {
