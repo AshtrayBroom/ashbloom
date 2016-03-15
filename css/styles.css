@@ -47,10 +47,11 @@ li {
   display: inline;
   padding: 0px 10px 0px 10px;
 }
-main first {
-  background: #ffc952;
+main {
+  background: white;
   font-family: 'Lora', serif;
   margin: -16px auto;
+  padding: 30px 0 30px 0;
 }
 main second {
   background: #47b8e0;
