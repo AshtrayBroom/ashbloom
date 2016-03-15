@@ -8,12 +8,6 @@ header {
   background-size: cover;
   background-position: center;
 }
-main {
-  background: #ffc952;
-  color: rgba(14, 40, 48, 1)
-  font-family: helvetica, serif;
-  margin: -15px auto;
-}
 img {
   margin: 40px 0px 0px 0px;
   border: 7px solid rgba(14, 40, 48, 0.7);
@@ -52,6 +46,12 @@ ul {
 li {
   display: inline;
   padding: 0px 10px 0px 10px;
+}
+main {
+  background: #ffc952;
+  color: rgba(14, 40, 48, 1)
+  font-family: helvetica, serif;
+  margin: -15px auto;
 }
 @media (max-width: 500px) {
   img {
