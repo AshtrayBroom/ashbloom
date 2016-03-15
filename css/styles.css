@@ -50,7 +50,7 @@ li {
 main div {
   font-family: helvetica, serif;
   max-width: 500px;
-  position: center;
+  position: relative;
   padding: 20px;
 }
 main div second {
