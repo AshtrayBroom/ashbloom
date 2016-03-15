@@ -10,8 +10,8 @@ header {
 }
 div {
   background: #ff7473;
-  width: 300px;
-  height: 300px;
+  font-family: helvetica, serif;
+  margin: 0 auto;
 }
 img {
   margin: 40px 0px 0px 0px;
