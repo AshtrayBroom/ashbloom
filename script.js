@@ -5,3 +5,6 @@ document.getElementById("navMenu").innerHTML =
   '<li><a href="ideas.html">IDEAS</a></li>'+
   '<li><a href="contact.html">CONTACT</a></li>'+
  '</ul>';
+
+// could build this into an array, with a function that lets me add new pages
+// that could be sexy idk

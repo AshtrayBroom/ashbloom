@@ -8,10 +8,11 @@ header {
   background-size: cover;
   background-position: center;
 }
-div {
-  background: #ff7473;
+main {
+  background: #ffc952;
+  color: rgba(14, 40, 48, 1)
   font-family: helvetica, serif;
-  margin: 0 auto;
+  margin: -20px auto;
 }
 img {
   margin: 40px 0px 0px 0px;
