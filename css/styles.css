@@ -1,6 +1,7 @@
 body {
   font-family: helvetica, serif;
   margin: 0 auto;
+  background: #ff7473;
 }
 header {
   text-align: center;
@@ -48,19 +49,15 @@ li {
   padding: 0px 10px 0px 10px;
 }
 main {
-  background: #ff7473;
-  font-family: helvetica, serif;
   margin-top: -16px;
-  padding: 47px 0 450px 0;
 }
 p {
   background: #47b8e0;
   color: #282c37;
   padding: 10px;
-  text-align: justify;
   line-height: 24px;
-  position: relative;
-  left: 150px;
+  width: 80%;
+  margin: 0 auto;
   border-radius: 10px;
 }
 @media (max-width: 500px) {
