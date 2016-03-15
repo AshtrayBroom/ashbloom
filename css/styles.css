@@ -49,9 +49,10 @@ li {
 }
 main {
   background: #ff7473;
+  background-size: cover;
   font-family: helvetica, serif;
-  width: inherit;
-  margin: 0 auto;
+  padding: 28px;
+  margin: -8px 0 0 0;
 }
 p {
   background: #47b8e0;
