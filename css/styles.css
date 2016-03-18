@@ -63,6 +63,7 @@ p {
 input {
     border: 1px solid rgba(14, 40, 48, 0.7);
     padding: 5px;
+    border-radius: 10px;
 }
 @media (max-width: 500px) {
   img {
