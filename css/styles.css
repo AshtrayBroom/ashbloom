@@ -61,7 +61,8 @@ p {
   border-radius: 10px;
 }
 input {
-    border: 2px solid rgba(14, 40, 48, 0.7);
+    border: 1px solid rgba(14, 40, 48, 0.7);
+    padding: 5px;
 }
 @media (max-width: 500px) {
   img {
