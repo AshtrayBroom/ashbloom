@@ -60,6 +60,9 @@ p {
   margin: 0 auto;
   border-radius: 10px;
 }
+input {
+    border: 2px solid rgba(14, 40, 48, 0.7);
+}
 @media (max-width: 500px) {
   img {
     margin-top: 20px;
